@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pcao/01Learn/06MusicControl/RNMusicControl/RNMusicControl/android/rnmusiccontrol/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/pcao/.android/build-cache/31f1a67fbc53b7f6cc04c60f8fe5254ef6d431a0/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/pcao/01Learn/06MusicControl/RNMusicControl/RNMusicControl/android/rnmusiccontrol/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/pcao/.android/build-cache/31f1a67fbc53b7f6cc04c60f8fe5254ef6d431a0/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pcao/01Learn/06MusicControl/RNMusicControl/RNMusicControl/android/rnmusiccontrol/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/pcao/.android/build-cache/31f1a67fbc53b7f6cc04c60f8fe5254ef6d431a0/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pcao/01Learn/06MusicControl/RNMusicControl/RNMusicControl/android/rnmusiccontrol/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/pcao/.android/build-cache/31f1a67fbc53b7f6cc04c60f8fe5254ef6d431a0/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
